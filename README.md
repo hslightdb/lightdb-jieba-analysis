@@ -1,4 +1,4 @@
-结巴分词(java版) jieba-analysis
+结巴分词(java版) lightdb-jieba-analysis
 ===============================
 
 首先感谢jieba分词原作者[fxsjy](https://github.com/fxsjy)，没有他的无私贡献，我们也不会结识到结巴
